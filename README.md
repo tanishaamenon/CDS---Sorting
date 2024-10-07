@@ -9,6 +9,7 @@ Sorting is a way to arrange elements in a particular order. We will be understan
 &#8594; Insertion Sort <br>
 &#8594; Bubble Sort <br>
 <br>
+
 _Selection Sort:_ A simple comparison-based sorting algorithm. It sorts an array by repeatedly finding the minimum element from the unsorted portion of the array and placing it at the beginning. <br>
 Selection Sort Steps: <br>
 1. Find the smallest element in the unsorted array. <br>
@@ -16,6 +17,7 @@ Selection Sort Steps: <br>
 3. Move the boundary between the sorted and unsorted parts by one element. <br>
 4. Repeat the process until the array is sorted. <br>
 <br>
+
 _Insertion Sort:_ This works by repeatedly taking an element from the unsorted portion and inserting it into its correct position within the sorted portion of the array. <br>
 Insertion Sort Steps: <br>
 1. Assume the first element is sorted. <br>
@@ -24,6 +26,7 @@ Insertion Sort Steps: <br>
 4. Insert the current element in its correct position. <br>
 5. Repeat the process for all elements. <br>
 <br>
+
 _Bubble Sort:_ A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated until the list is sorted. <br>
 Bubble Sort Steps: <br>
 1. Compare adjacent elements. <br>
